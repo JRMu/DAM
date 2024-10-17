@@ -17,9 +17,7 @@
                     // Muestra el número impar por pantalla.
                     Console.WriteLine(i);
 
-                    // Este comentario muestra una línea de código que se podría usar para incrementar una variable,
-                    // pero no es necesario en este caso, ya que 'i' se incrementa automáticamente en cada iteración del bucle.
-                    // numero = numero + 1;
+                   
                 }
             }
 
